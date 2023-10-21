@@ -3,4 +3,4 @@
 </br>
 </br>
 
-2023/10/21: https://velog.io/@fbckdgns3/Perceptual-Losses-for-Real-Time-Style-Transferand-Super-Resolution-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0
+2023/06/26: [DenseNet 논문리뷰](https://velog.io/@fbckdgns3/DenseNet-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0)
