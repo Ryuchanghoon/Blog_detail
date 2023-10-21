@@ -3,4 +3,4 @@
 </br>
 </br>
 
-리드미에 블로그 하나씩 쓰면 정리해서 링크 올릴 예정 ㅋㅋ
+2023/10/21: https://velog.io/@fbckdgns3/Perceptual-Losses-for-Real-Time-Style-Transferand-Super-Resolution-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0
