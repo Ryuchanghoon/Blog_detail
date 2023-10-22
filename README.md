@@ -106,6 +106,5 @@
 
 2023/10/19: [Image Enhancement & Noise reduction & Edge Detection](https://velog.io/@fbckdgns3/Image-Enhancement-Noise-reduction-Edge-Detection)
 
-</br>
 
 2023/10/21: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution 논문 리뷰](https://velog.io/@fbckdgns3/Perceptual-Losses-for-Real-Time-Style-Transferand-Super-Resolution-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0)
