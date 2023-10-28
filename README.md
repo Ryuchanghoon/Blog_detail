@@ -6,8 +6,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
 
 
 
@@ -108,8 +106,11 @@
 2023/10/18: [Color Space](https://velog.io/@fbckdgns3/Color-Space-Image-Enhancement)
 
 
-
 2023/10/19: [Image Enhancement & Noise reduction & Edge Detection](https://velog.io/@fbckdgns3/Image-Enhancement-Noise-reduction-Edge-Detection)
 
 
 2023/10/21: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution 논문 리뷰](https://velog.io/@fbckdgns3/Perceptual-Losses-for-Real-Time-Style-Transferand-Super-Resolution-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0)
+
+2023/10/28: [GAN(생산적 적대 신경망) 이해](https://velog.io/@fbckdgns3/GAN%EC%83%9D%EC%82%B0%EC%A0%81-%EC%A0%81%EB%8C%80-%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4)
+
+
