@@ -114,3 +114,5 @@
 2023/10/28: [GAN(생산적 적대 신경망) 이해](https://velog.io/@fbckdgns3/GAN%EC%83%9D%EC%82%B0%EC%A0%81-%EC%A0%81%EB%8C%80-%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4)
 
 2023/11/01: [EDSR](https://velog.io/@fbckdgns3/EDSR)
+
+2023/12/05: [GDSC Pose estimation project 1](https://velog.io/@fbckdgns3/GDSC-%EC%9E%90%EC%84%B8-%EC%B6%94%EC%A0%95-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%84%EB%A5%98)
