@@ -115,4 +115,4 @@
 
 2023/11/01: [EDSR](https://velog.io/@fbckdgns3/EDSR)
 
-2023/12/05: [GDSC Pose estimation project 1](https://velog.io/@fbckdgns3/GDSC-%EC%9E%90%EC%84%B8-%EC%B6%94%EC%A0%95-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%84%EB%A5%98)
+2023/12/05: [GDSC Pose estimation project 1](https://velog.io/@fbckdgns3/GDSC-Solution-challenge-1)
