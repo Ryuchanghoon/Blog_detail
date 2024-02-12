@@ -124,3 +124,4 @@
 2024/01/10: [GDSC Pose estimation Project 3 (Multi Processing)](https://velog.io/@fbckdgns3/GDSC-Pose-estimation-Project-3-Multi-Processing)
 
 2024/02/11: [Build Docker image & Serving](https://velog.io/@fbckdgns3/Build-Docker-image-Serving#duckdns)
+
