@@ -115,13 +115,13 @@
 
 2023/11/01: [EDSR](https://velog.io/@fbckdgns3/EDSR)
 
-2023/12/05: [GDSC Pose estimation project 1](https://velog.io/@fbckdgns3/GDSC-Solution-challenge-1)
+2023/12/05: [GDSC Pose estimation Project 1st Step](https://velog.io/@fbckdgns3/GDSC-Solution-challenge-1)
 
 2023/12/14: [Vertex AI 사용 후기](https://velog.io/@fbckdgns3/Vertex-AI-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0)
 
-2023/12/27: [GDSC Pose estimation Project 2 (Model to .tflite)](https://velog.io/@fbckdgns3/%EB%AA%A8%EB%8D%B8-to-tflite)
+2023/12/27: [GDSC Pose estimation Project 2nd Step (Model to .tflite)](https://velog.io/@fbckdgns3/%EB%AA%A8%EB%8D%B8-to-tflite)
 
-2024/01/10: [GDSC Pose estimation Project 3 (Multi Processing)](https://velog.io/@fbckdgns3/GDSC-Pose-estimation-Project-3-Multi-Processing)
+2024/01/10: [GDSC Pose estimation Project 3rd Step (Multi Processing)](https://velog.io/@fbckdgns3/GDSC-Pose-estimation-Project-3-Multi-Processing)
 
 2024/02/11: [Build Docker image & Serving](https://velog.io/@fbckdgns3/Build-Docker-image-Serving#duckdns)
 
