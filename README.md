@@ -126,3 +126,5 @@
 2024/02/11: [Build Docker image & Serving](https://velog.io/@fbckdgns3/Build-Docker-image-Serving#duckdns)
 
 2024/02/27: [GDSC Pose estimation Project Final Step](https://velog.io/@fbckdgns3/GDSC-Pose-estimation-Project-Final-Step) 
+
+2024/03/08: [Apple Detection(Edge AI) - Approach](https://velog.io/@fbckdgns3/Apple-DetectionEdge-AI-Approach)
