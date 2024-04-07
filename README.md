@@ -132,3 +132,5 @@
 2024/03/20: [Apple Detection(Edge AI) - Compare](https://velog.io/@fbckdgns3/Apple-DetectionEdge-AI-Compare) 
 
 2024/03/26: [GDSC Pose estimation Project Return](https://velog.io/@fbckdgns3/GDSC-Pose-estimation-Project-Return)
+
+2024/04/07: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Approach 1st](https://velog.io/@fbckdgns3/MobileNets-Efficient-Convolutional-Neural-Networks-for-Mobile-VisionApplications-Approach-1st)
