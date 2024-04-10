@@ -138,3 +138,4 @@
 2024/04/08: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Approach 2nd](https://velog.io/@fbckdgns3/MobileNets-Efficient-Convolutional-Neural-Networks-for-Mobile-Vision-Applications-Approach-2nd)
 
 2024/04/08: [GDSC Pose estimation Project END](https://velog.io/@fbckdgns3/GDSC-Pose-estimation-Project-END)
+
