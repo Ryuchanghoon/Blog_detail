@@ -135,6 +135,8 @@
 
 2024/04/07: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Approach 1st](https://velog.io/@fbckdgns3/MobileNets-Efficient-Convolutional-Neural-Networks-for-Mobile-VisionApplications-Approach-1st)
 
+2024/05/01: [2024 AI EXPO 국제인공지능대전 참관 후기](https://velog.io/@fbckdgns3/2024-AI-EXPO-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
+
 2024/04/08: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Approach 2nd](https://velog.io/@fbckdgns3/MobileNets-Efficient-Convolutional-Neural-Networks-for-Mobile-Vision-Applications-Approach-2nd)
 
 2024/04/08: [GDSC Pose estimation Project END](https://velog.io/@fbckdgns3/GDSC-Pose-estimation-Project-END)
