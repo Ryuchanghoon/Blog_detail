@@ -142,3 +142,5 @@
 2024/05/01: [2024 AI EXPO 국제인공지능대전 참관 후기](https://velog.io/@fbckdgns3/2024-AI-EXPO-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
 
 2024/07/01: [GDSC SKHU 23-24 회고](https://velog.io/@fbckdgns3/GDSC-SKHU-23-24-%ED%9A%8C%EA%B3%A0)
+
+2024/07/02: [인공지능 명예학회 2기 회고](https://velog.io/@fbckdgns3/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%AA%85%EC%98%88%ED%95%99%ED%9A%8C-2%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
