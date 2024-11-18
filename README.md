@@ -148,3 +148,5 @@
 2024/07/26: [건강한 개발자 VS 아픈 개발자](https://velog.io/@fbckdgns3/%EA%B1%B4%EA%B0%95%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-VS-%EC%95%84%ED%94%88-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 
 2024/10/13: [뛰는 AI 개발자](https://velog.io/@fbckdgns3/%EB%9B%B0%EB%8A%94-AI-%EA%B0%9C%EB%B0%9C%EC%9E%90#5-%EB%A7%88%EB%AC%B4%EB%A6%AC)
+
+2024/11/19: [부트스트랩](https://velog.io/@fbckdgns3/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9)
