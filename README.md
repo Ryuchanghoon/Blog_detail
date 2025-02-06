@@ -153,4 +153,4 @@
 
 2025/02/05: [OCR 성능 끌어올리기 2nd step: Binarization-1](https://velog.io/@fbckdgns3/OCR-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-2nd-step#--manual-thresholding%EC%88%98%EB%8F%99-%EC%9E%84%EA%B3%84%EA%B0%92)
 
-2025/02/26:[OCR 성능 끌어올리기 2nd step: Binarization-2](https://velog.io/@fbckdgns3/OCR-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-2nd-step-Binarization-2)
+2025/02/26: [OCR 성능 끌어올리기 2nd step: Binarization-2](https://velog.io/@fbckdgns3/OCR-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-2nd-step-Binarization-2)
