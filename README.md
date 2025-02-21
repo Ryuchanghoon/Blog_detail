@@ -162,3 +162,5 @@
 2025/02/18: [OCR 성능 끌어올리기 4th step: Reducing shadow](https://velog.io/@fbckdgns3/OCR-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-4th-step-Reducing-shadow)
 
 2025/02/20: [OCR 성능 끌어올리기 5th step: edge detection](https://velog.io/@fbckdgns3/OCR-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-5th-step-edge-detection)
+
+2025/02/22: [OCR 성능 끌어올리기 6th step: Bounding box & Contour](https://velog.io/@fbckdgns3/OCR-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-6th-step-Bounding-box-Contour)
