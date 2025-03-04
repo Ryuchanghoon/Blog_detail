@@ -172,3 +172,5 @@
 2025/03/04: [OCR 성능 끌어올리기: 이미지 전처리 프로그램](https://velog.io/@fbckdgns3/OCR-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%84%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 
 2025/03/04: [OCR 성능 끌어올리기 Final](https://velog.io/@fbckdgns3/OCR-%EC%84%B1%EB%8A%A5-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-Final)
+
+2025/03/05: [24-25 GDG 채식탁 프로젝트 회고](https://velog.io/@fbckdgns3/24-25-GDG-%EC%B1%84%EC%8B%9D%ED%83%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
