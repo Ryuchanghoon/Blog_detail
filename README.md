@@ -176,3 +176,5 @@
 2025/03/05: [24-25 GDG 채식탁 프로젝트 회고](https://velog.io/@fbckdgns3/24-25-GDG-%EC%B1%84%EC%8B%9D%ED%83%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 
 2025/04/10: [전통 Computer vision 활용 객체 구분](https://velog.io/@fbckdgns3/%EC%A0%84%ED%86%B5-Computer-vision-%ED%99%9C%EC%9A%A9-%EA%B0%9D%EC%B2%B4-%EA%B5%AC%EB%B6%84)
+
+2025/04/20: [영화 '테넷' 내맛대로 해석](https://velog.io/@fbckdgns3/%EC%98%81%ED%99%94-%ED%85%8C%EB%84%B7-%EB%82%B4%EB%A7%9B%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9D)
