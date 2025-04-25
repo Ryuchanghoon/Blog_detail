@@ -177,4 +177,6 @@
 
 2025/04/10: [전통 Computer vision 활용 객체 구분](https://velog.io/@fbckdgns3/%EC%A0%84%ED%86%B5-Computer-vision-%ED%99%9C%EC%9A%A9-%EA%B0%9D%EC%B2%B4-%EA%B5%AC%EB%B6%84)
 
-2025/04/20: [영화 '테넷' 내맛대로 해석](https://velog.io/@fbckdgns3/%EC%98%81%ED%99%94-%ED%85%8C%EB%84%B7-%EB%82%B4%EB%A7%9B%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9D)
+2025/04/20: [영화 '테넷' 내 맛대로 해석](https://velog.io/@fbckdgns3/%EC%98%81%ED%99%94-%ED%85%8C%EB%84%B7-%EB%82%B4%EB%A7%9B%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9D)
+
+2025/04/26: [영화 '인셉션' 내 맛대로 해석](https://velog.io/@fbckdgns3/%EC%98%81%ED%99%94-%EC%9D%B8%EC%85%89%EC%85%98-%EB%82%B4-%EB%A7%9B%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9D)
