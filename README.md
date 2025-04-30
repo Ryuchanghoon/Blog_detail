@@ -180,3 +180,5 @@
 2025/04/20: [영화 '테넷' 내 맛대로 해석](https://velog.io/@fbckdgns3/%EC%98%81%ED%99%94-%ED%85%8C%EB%84%B7-%EB%82%B4%EB%A7%9B%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9D)
 
 2025/04/26: [영화 '인셉션' 내 맛대로 해석](https://velog.io/@fbckdgns3/%EC%98%81%ED%99%94-%EC%9D%B8%EC%85%89%EC%85%98-%EB%82%B4-%EB%A7%9B%EB%8C%80%EB%A1%9C-%ED%95%B4%EC%84%9D)
+
+2025/04/30: [Segmentation 레이블 형식](https://velog.io/@fbckdgns3/Segmentation-%EB%A0%88%EC%9D%B4%EB%B8%94-%ED%98%95%EC%8B%9D)
